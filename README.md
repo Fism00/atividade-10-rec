@@ -1,2 +1,2 @@
 # atividade-10-rec
-a
+Nesta atividade, vamos investigar como aplicações PHP modernas se organizam em torno de APIs (próprias e de terceiros), de bibliotecas instaladas via Composer e de frameworks que oferecem estruturas de projeto. A meta é reconhecer conceitos, diferenças, benefícios, riscos e casos de uso — sem escrever código — e desenvolver senso crítico para selecionar tecnologias conforme requisitos não funcionais (segurança, desempenho, manutenibilidade e custos).
